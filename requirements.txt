@@ -1,0 +1,6 @@
+torch==2.5.1
+torchvision
+torchaudio
+ultralytics==8.1.28
+opencv-python
+gradio==3.50.2

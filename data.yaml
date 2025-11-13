@@ -1,0 +1,13 @@
+path: C:/Users/nihit/OneDrive/Documents/children_safety/yolo_dataset       # Path relative to where you run the training command
+train: images/train        # Training images (relative to 'path')
+val: images/val            # Validation images
+test: images/test          # Optional: Test images
+
+# Class names (must match CLASS_MAPPING from yolo_convert.py)
+names:
+  0: battery
+  1: dice
+  2: toycar
+  3: candle
+  4: highlighter
+  5: spoon
