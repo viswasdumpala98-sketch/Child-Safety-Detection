@@ -1,0 +1,29 @@
+# Python cache & environments
+__pycache__/
+*.py[cod]
+.venv/
+venv*/
+.env
+
+# Gradio & system files
+.gradio/
+.DS_Store
+Thumbs.db
+
+# Ignore all training outputs
+runs/*
+
+# But allow best.pt model
+!runs/detect/child_safety_v1/weights/
+!runs/detect/child_safety_v1/weights/best.pt
+
+# Outputs and raw data
+outputs/
+detected_objects/
+test_images/
+dataset/
+yolo_dataset/
+labels_yolo/
+
+# Model formats
+*.onnx
