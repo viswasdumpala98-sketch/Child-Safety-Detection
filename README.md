@@ -118,8 +118,8 @@ The model file best.pt is stored at:
 Used for all inference modes in this project
 
 ## Author
-- SreeHarshini
-- GitHub: [@Harshini V](https://github.com/harshin-i)
+- Viswas Dumpala
+- GitHub: [@Viswas D](https://github.com/viswasdumpala98-sketch)
 
 ## 📄 License
 This project is licensed under the MIT License.
